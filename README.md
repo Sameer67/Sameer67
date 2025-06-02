@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sameer67
-- 👀 I’m interested in... Research and Developement related projects
-- 🌱 I’m currently learning... Dash plotly with javascript and python  
-- 💞️ I’m looking to collaborate on... python and Javascript
+- 👀 I’m interested in... Research and Developement related projects 
+- 💞️ I’m looking to collaborate on... python, Javascript, NLP and AI research
 - 📫 How to reach me ... sameersitaula67@gmail.com or +9779864128056
 
 <!---
